@@ -1,0 +1,31 @@
+body{
+  font-family: "Roboto", "sans-serif";
+}
+
+.left-side{
+  background-color: blue;
+}
+
+.c-image{
+  width: 80%;
+  height: 80%;
+}
+
+.c-logo{
+  width: 100%;
+  height: 100%;
+}
+
+.btn-image{
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.store-image{
+  width: 100%;
+  height: 100%;
+}
+
+.shadow-box-main{
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6);
+}
